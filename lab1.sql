@@ -29,7 +29,7 @@ CREATE TABLE orders (
 
 
 
-INSERT INTO clients ("first_name", "last_name", "email", "date") VALUES ('Ktotk', 'Kokenov', 'kokenaoerasyl@gmail.com', '5.12.2011');
+INSERT INTO clients ("first_name", "last_name", "email", "date") VALUES ('Ktotk', 'Kokenov', 'era@gmail.com', '5.12.2011');
 
 SELECT * FROM clients;
         
