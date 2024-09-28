@@ -39,8 +39,8 @@ INSERT INTO employees (last_name, department_id, salary) VALUES
 
 
 ALTER TABLE employees
-ALTER COLUMN first_name SET DEFAULT 'John',
-ALTER COLUMN last_name SET DEFAULT 'Doe',
+ALTER COLUMN first_name SET DEFAULT 'Richard',
+ALTER COLUMN last_name SET DEFAULT 'Hendricks',
 ALTER COLUMN department_id SET DEFAULT 10,
 ALTER COLUMN salary SET DEFAULT 1000;
 
