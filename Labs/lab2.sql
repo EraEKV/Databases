@@ -37,6 +37,7 @@ INSERT INTO employees (last_name, department_id, salary) VALUES
 ('Kokenov', 10, 250000);
 
 
+
 ALTER TABLE employees
 ALTER COLUMN first_name SET DEFAULT 'Richard',
 ALTER COLUMN last_name SET DEFAULT 'Hendricks',
