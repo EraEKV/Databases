@@ -33,7 +33,6 @@ INSERT INTO employees (first_name, last_name, department_id, salary) VALUES
 ALTER TABLE employees
 ALTER COLUMN first_name SET DEFAULT 'John';
 
-
 INSERT INTO employees (last_name, department_id, salary) VALUES
 ('Kokenov', 10, 250000);
 
