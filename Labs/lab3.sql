@@ -106,7 +106,7 @@ WHERE city = 'Almaty';
 
 -- 15
 SELECT * FROM courses WHERE credits > 1
-ORDER BY credits ASC, course_id DESC;
+ORDER BY credits, course_id DESC;
 
 -- 16
 UPDATE courses
